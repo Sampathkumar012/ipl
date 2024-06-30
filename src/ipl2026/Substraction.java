@@ -6,8 +6,8 @@ public class Substraction {
 
 
         int a = 10;
-        int b = 20;
+        int b = 40;
         int c = b - a;
-        System.out.println("substraction two numbers ");
+        System.out.println("substraction two numbers "+c);
     }
 }
