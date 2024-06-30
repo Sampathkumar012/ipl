@@ -7,4 +7,5 @@ public class AddingNum {
         int c=a+b;
         System.out.println("adding two numbers "+c);
     }
+
 }
