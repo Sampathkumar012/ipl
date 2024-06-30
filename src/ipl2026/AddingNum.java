@@ -7,8 +7,8 @@ public class AddingNum {
         int c=a+b;
         System.out.println("adding two numbers "+c);
         System.out.println("siva");
-        System.out.println("adding two numbers "+c+"chandan");
-        System.out.println("siva");
+        System.out.println("adding two numbers "+c+"chandan"+"nani");
+        System.out.println("siva"+"Bobby");
         System.out.println("Siri");
     }
 
