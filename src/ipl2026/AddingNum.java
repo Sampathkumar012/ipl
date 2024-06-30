@@ -5,11 +5,10 @@ public class AddingNum {
         int a=10;
         int b=20;
         int c=a+b;
+        int d=b/a;
         System.out.println("adding two numbers "+c);
-        System.out.println("siva");
-        System.out.println("adding two numbers "+c+"chandan"+"nani");
-        System.out.println("siva"+"Bobby");
-        System.out.println("Siri");
+        System.out.println("division of two numbers "+d);
+        System.out.println("adding two numbers "+c+"chandan");
+        System.out.println("siva"+"siva");
     }
-
 }
